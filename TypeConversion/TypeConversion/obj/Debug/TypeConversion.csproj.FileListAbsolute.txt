@@ -1,0 +1,7 @@
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

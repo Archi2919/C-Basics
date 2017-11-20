@@ -1,0 +1,7 @@
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Variables\Variables\obj\Debug\Variables.pdb
