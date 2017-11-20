@@ -1,7 +1,0 @@
-C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Operators\Operators\bin\Debug\Operators.exe.config
-C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Operators\Operators\bin\Debug\Operators.exe
-C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Operators\Operators\bin\Debug\Operators.pdb
-C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
-C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
-C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Operators\Operators\obj\Debug\Operators.exe
-C:\Users\Ryan Archibald\Documents\Visual Studio 2017\Projects\C#Basics\Operators\Operators\obj\Debug\Operators.pdb
