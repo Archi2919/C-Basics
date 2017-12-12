@@ -25,6 +25,9 @@ namespace ArrayExample
             Console.WriteLine(flags[2]);
 
             var names = new string[3] {"Jack", "Harris", "Ryan"};
+            
+
+            Console.Read();
         }
     }
 }
