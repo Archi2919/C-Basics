@@ -1,0 +1,7 @@
+C:\Users\ryan.archibald\Documents\C#\Basics\StringsContinued\StringsContinued\bin\Debug\StringsContinued.exe.config
+C:\Users\ryan.archibald\Documents\C#\Basics\StringsContinued\StringsContinued\bin\Debug\StringsContinued.exe
+C:\Users\ryan.archibald\Documents\C#\Basics\StringsContinued\StringsContinued\bin\Debug\StringsContinued.pdb
+C:\Users\ryan.archibald\Documents\C#\Basics\StringsContinued\StringsContinued\obj\Debug\StringsContinued.csprojResolveAssemblyReference.cache
+C:\Users\ryan.archibald\Documents\C#\Basics\StringsContinued\StringsContinued\obj\Debug\StringsContinued.csproj.CoreCompileInputs.cache
+C:\Users\ryan.archibald\Documents\C#\Basics\StringsContinued\StringsContinued\obj\Debug\StringsContinued.exe
+C:\Users\ryan.archibald\Documents\C#\Basics\StringsContinued\StringsContinued\obj\Debug\StringsContinued.pdb

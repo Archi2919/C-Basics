@@ -1,0 +1,7 @@
+C:\Users\ryan.archibald\Documents\C#\Basics\LiveStringProblems\LiveStringProblems\bin\Debug\LiveStringProblems.exe.config
+C:\Users\ryan.archibald\Documents\C#\Basics\LiveStringProblems\LiveStringProblems\bin\Debug\LiveStringProblems.exe
+C:\Users\ryan.archibald\Documents\C#\Basics\LiveStringProblems\LiveStringProblems\bin\Debug\LiveStringProblems.pdb
+C:\Users\ryan.archibald\Documents\C#\Basics\LiveStringProblems\LiveStringProblems\obj\Debug\LiveStringProblems.csprojResolveAssemblyReference.cache
+C:\Users\ryan.archibald\Documents\C#\Basics\LiveStringProblems\LiveStringProblems\obj\Debug\LiveStringProblems.csproj.CoreCompileInputs.cache
+C:\Users\ryan.archibald\Documents\C#\Basics\LiveStringProblems\LiveStringProblems\obj\Debug\LiveStringProblems.exe
+C:\Users\ryan.archibald\Documents\C#\Basics\LiveStringProblems\LiveStringProblems\obj\Debug\LiveStringProblems.pdb
